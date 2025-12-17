@@ -1,0 +1,43 @@
+{
+  "hash": "f689141d",
+  "configHash": "e8833ef7",
+  "lockfileHash": "36cc727e",
+  "browserHash": "6978a943",
+  "optimized": {
+    "chart.js/auto": {
+      "src": "../../node_modules/chart.js/auto/auto.js",
+      "file": "chart__js_auto.js",
+      "fileHash": "87082641",
+      "needsInterop": false
+    },
+    "chartjs-plugin-datalabels": {
+      "src": "../../node_modules/chartjs-plugin-datalabels/dist/chartjs-plugin-datalabels.esm.js",
+      "file": "chartjs-plugin-datalabels.js",
+      "fileHash": "27bda00c",
+      "needsInterop": false
+    },
+    "chartjs-chart-geo": {
+      "src": "../../node_modules/chartjs-chart-geo/build/index.js",
+      "file": "chartjs-chart-geo.js",
+      "fileHash": "8e221d4f",
+      "needsInterop": false
+    },
+    "papaparse": {
+      "src": "../../node_modules/papaparse/papaparse.min.js",
+      "file": "papaparse.js",
+      "fileHash": "fff7f288",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-NZIKLI2N": {
+      "file": "chunk-NZIKLI2N.js"
+    },
+    "chunk-MZGG4OJV": {
+      "file": "chunk-MZGG4OJV.js"
+    },
+    "chunk-HKJ2B2AA": {
+      "file": "chunk-HKJ2B2AA.js"
+    }
+  }
+}

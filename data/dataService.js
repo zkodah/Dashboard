@@ -4,7 +4,7 @@ import { errorLogger } from '../Error/errorLogger.js';
 
 export async function fetchData() {
     try {
-        const response = await fetch('./data/data.csv');
+        const response = await fetch('./data/data_modificado.csv');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -59,7 +59,7 @@ export async function fetchData() {
 
 export async function fetchDataForChoropleth() {
     try {
-        const response = await fetch('./data/data.csv');
+        const response = await fetch('./data/data_modificado.csv');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }

@@ -1,0 +1,181 @@
+# Nombre,Tipo,Cantidad,Precio por Unidad,Fecha de Ingreso,Proveedor,Origen,Calidad,En Oferta
+Manzana,Fruta,150,0.5,2025-12-01,Proveedor A,Chile,Alta,No
+Banana,Fruta,200,0.3,2025-12-02,Proveedor B,Ecuador,Media,Si
+Naranja,Fruta,180,0.4,2025-11-30,Proveedor C,Brasil,Alta,No
+Pera,Fruta,120,0.6,2025-12-03,Proveedor A,Argentina,Alta,Si
+Uva,Fruta,90,1.2,2025-12-01,Proveedor D,España,Media,No
+Kiwi,Fruta,60,1.5,2025-11-29,Proveedor E,Nueva Zelanda,Alta,Si
+Mango,Fruta,75,1.8,2025-12-04,Proveedor F,India,Alta,No
+Papaya,Fruta,50,1.1,2025-12-02,Proveedor G,México,Media,Si
+Fresa,Fruta,300,0.8,2025-12-01,Proveedor H,Perú,Alta,No
+Sandía,Fruta,20,3.0,2025-11-28,Proveedor I,Brasil,Media,Si
+Melón,Fruta,25,2.5,2025-12-03,Proveedor J,España,Alta,No
+Cereza,Fruta,40,2.0,2025-12-01,Proveedor K,Chile,Alta,Si
+Durazno,Fruta,100,1.3,2025-11-30,Proveedor L,Argentina,Media,No
+Piña,Fruta,30,2.2,2025-12-02,Proveedor M,Costa Rica,Alta,Si
+Lima,Fruta,80,0.7,2025-12-03,Proveedor N,México,Media,No
+Limón,Fruta,90,0.6,2025-12-01,Proveedor O,España,Alta,Si
+Mandarina,Fruta,110,0.5,2025-11-29,Proveedor P,Brasil,Media,No
+Higo,Fruta,35,2.8,2025-12-04,Proveedor Q,Turquía,Alta,Si
+Granada,Fruta,45,1.9,2025-12-02,Proveedor R,India,Alta,No
+Frambuesa,Fruta,70,2.5,2025-12-01,Proveedor S,Canadá,Alta,Si
+Manzana,Fruta,120,0.5,2025-12-02,Proveedor T,Estados Unidos,Media,No
+Banana,Fruta,180,0.3,2025-12-03,Proveedor U,Colombia,Alta,Si
+Naranja,Fruta,250,0.4,2025-11-29,Proveedor V,Venezuela,Media,No
+Pera,Fruta,90,0.6,2025-12-04,Proveedor W,Uruguay,Alta,Si
+Uva,Fruta,140,1.2,2025-12-01,Proveedor X,Paraguay,Media,No
+Kiwi,Fruta,80,1.5,2025-11-30,Proveedor Y,Bolivia,Alta,Si
+Mango,Fruta,110,1.8,2025-12-02,Proveedor Z,Panamá,Media,No
+Papaya,Fruta,60,1.1,2025-12-03,Proveedor AA,Nicaragua,Alta,Si
+Fresa,Fruta,280,0.8,2025-11-28,Proveedor BB,Honduras,Media,No
+Sandía,Fruta,30,3.0,2025-12-04,Proveedor CC,Guatemala,Alta,Si
+Melón,Fruta,40,2.5,2025-12-01,Proveedor DD,El Salvador,Media,No
+Cereza,Fruta,50,2.0,2025-11-29,Proveedor EE,Costa Rica,Alta,Si
+Durazno,Fruta,130,1.3,2025-12-02,Proveedor FF,Bélgica,Media,No
+Piña,Fruta,35,2.2,2025-12-03,Proveedor GG,Francia,Alta,Si
+Lima,Fruta,95,0.7,2025-11-30,Proveedor HH,Alemania,Media,No
+Limón,Fruta,105,0.6,2025-12-04,Proveedor II,Italia,Alta,Si
+Mandarina,Fruta,125,0.5,2025-12-01,Proveedor JJ,Portugal,Media,No
+Higo,Fruta,45,2.8,2025-11-28,Proveedor KK,Grecia,Alta,Si
+Granada,Fruta,55,1.9,2025-12-02,Proveedor LL,Marruecos,Media,No
+Frambuesa,Fruta,75,2.5,2025-12-03,Proveedor MM,Egipto,Alta,Si
+Manzana,Fruta,160,0.5,2025-11-29,Proveedor NN,Sudáfrica,Media,No
+Banana,Fruta,210,0.3,2025-12-04,Proveedor OO,Australia,Alta,Si
+Naranja,Fruta,190,0.4,2025-12-01,Proveedor PP,Japón,Media,No
+Pera,Fruta,130,0.6,2025-11-30,Proveedor QQ,China,Alta,Si
+Uva,Fruta,100,1.2,2025-12-02,Proveedor RR,Corea del Sur,Media,No
+Kiwi,Fruta,70,1.5,2025-12-03,Proveedor SS,Tailandia,Alta,Si
+Mango,Fruta,85,1.8,2025-11-28,Proveedor TT,Vietnam,Media,No
+Papaya,Fruta,55,1.1,2025-12-04,Proveedor UU,Filipinas,Alta,Si
+Fresa,Fruta,320,0.8,2025-12-01,Proveedor VV,Indonesia,Media,No
+Sandía,Fruta,25,3.0,2025-11-29,Proveedor WW,Malasia,Alta,Si
+Melón,Fruta,30,2.5,2025-12-02,Proveedor XX,Singapur,Media,No
+Cereza,Fruta,45,2.0,2025-12-03,Proveedor YY,Hong Kong,Alta,Si
+Durazno,Fruta,115,1.3,2025-11-30,Proveedor ZZ,Taiwán,Media,No
+Piña,Fruta,40,2.2,2025-12-04,Proveedor AAA,Israel,Alta,Si
+Lima,Fruta,85,0.7,2025-12-01,Proveedor BBB,Jordania,Media,No
+Limón,Fruta,95,0.6,2025-11-28,Proveedor CCC,Líbano,Alta,Si
+Mandarina,Fruta,135,0.5,2025-12-02,Proveedor DDD,Emiratos Árabes Unidos,Media,No
+Higo,Fruta,50,2.8,2025-12-03,Proveedor EEE,Qatar,Alta,Si
+Granada,Fruta,60,1.9,2025-11-29,Proveedor FFF,Kuwait,Media,No
+Frambuesa,Fruta,80,2.5,2025-12-04,Proveedor GGG,Baréin,Alta,Si
+Manzana,Fruta,170,0.5,2025-12-01,Proveedor HHH,Omán,Media,No
+Banana,Fruta,220,0.3,2025-11-30,Proveedor III,Yemen,Alta,Si
+Naranja,Fruta,200,0.4,2025-12-02,Proveedor JJJ,Irak,Media,No
+Pera,Fruta,140,0.6,2025-12-03,Proveedor KKK,Irán,Alta,Si
+Uva,Fruta,110,1.2,2025-11-28,Proveedor LLL,Siria,Media,No
+Kiwi,Fruta,75,1.5,2025-12-04,Proveedor MMM,Jordania,Alta,Si
+Mango,Fruta,90,1.8,2025-12-01,Proveedor NNN,Líbano,Media,No
+Papaya,Fruta,65,1.1,2025-11-29,Proveedor OOO,Emiratos Árabes Unidos,Alta,Si
+Fresa,Fruta,340,0.8,2025-12-02,Proveedor PPP,Qatar,Media,No
+Sandía,Fruta,35,3.0,2025-12-03,Proveedor QQQ,Kuwait,Alta,Si
+Melón,Fruta,45,2.5,2025-11-30,Proveedor RRR,Baréin,Media,No
+Cereza,Fruta,55,2.0,2025-12-04,Proveedor SSS,Omán,Alta,Si
+Durazno,Fruta,125,1.3,2025-12-01,Proveedor TTT,Yemen,Media,No
+Piña,Fruta,50,2.2,2025-11-28,Proveedor UUU,Irak,Alta,Si
+Lima,Fruta,100,0.7,2025-12-02,Proveedor VVV,Irán,Media,No
+Limón,Fruta,110,0.6,2025-12-03,Proveedor WWW,Siria,Alta,Si
+Mandarina,Fruta,145,0.5,2025-11-29,Proveedor XXX,Jordania,Media,No
+Higo,Fruta,60,2.8,2025-12-04,Proveedor YYY,Líbano,Alta,Si
+Granada,Fruta,70,1.9,2025-12-01,Proveedor ZZZ,Emiratos Árabes Unidos,Media,No
+Frambuesa,Fruta,85,2.5,2025-11-30,Proveedor AAAA,Qatar,Alta,Si
+Manzana,Fruta,180,0.5,2025-12-02,Proveedor BBBB,Kuwait,Media,No
+Banana,Fruta,230,0.3,2025-12-03,Proveedor CCCC,Baréin,Alta,Si
+Naranja,Fruta,210,0.4,2025-11-28,Proveedor DDDD,Omán,Media,No
+Pera,Fruta,150,0.6,2025-12-04,Proveedor EEEE,Yemen,Alta,Si
+Uva,Fruta,120,1.2,2025-12-01,Proveedor FFFF,Irak,Media,No
+Kiwi,Fruta,80,1.5,2025-11-29,Proveedor GGGG,Irán,Alta,Si
+Mango,Fruta,95,1.8,2025-12-02,Proveedor HHHH,Siria,Media,No
+Papaya,Fruta,70,1.1,2025-12-03,Proveedor IIII,Jordania,Alta,Si
+Fresa,Fruta,360,0.8,2025-11-30,Proveedor JJJJ,Líbano,Media,No
+Sandía,Fruta,40,3.0,2025-12-04,Proveedor KKKK,Emiratos Árabes Unidos,Alta,Si
+Melón,Fruta,50,2.5,2025-12-01,Proveedor LLLL,Qatar,Media,No
+Cereza,Fruta,65,2.0,2025-11-28,Proveedor MMMM,Kuwait,Alta,Si
+Durazno,Fruta,135,1.3,2025-12-02,Proveedor NNNN,Baréin,Media,No
+Piña,Fruta,55,2.2,2025-12-03,Proveedor OOOO,Omán,Alta,Si
+Lima,Fruta,105,0.7,2025-11-29,Proveedor PPPP,Yemen,Media,No
+Limón,Fruta,115,0.6,2025-12-04,Proveedor QQQQ,Irak,Alta,Si
+Mandarina,Fruta,155,0.5,2025-12-01,Proveedor RRRR,Irán,Media,No
+Higo,Fruta,65,2.8,2025-11-30,Proveedor SSSS,Siria,Alta,Si
+Granada,Fruta,75,1.9,2025-12-02,Proveedor TTTT,Jordania,Media,No
+Frambuesa,Fruta,90,2.5,2025-12-03,Proveedor UUUU,Líbano,Alta,Si
+Manzana,Fruta,190,0.5,2025-11-28,Proveedor VVVV,Emiratos Árabes Unidos,Media,No
+Banana,Fruta,240,0.3,2025-12-04,Proveedor WWWW,Qatar,Alta,Si
+Naranja,Fruta,220,0.4,2025-12-01,Proveedor XXXX,Kuwait,Media,No
+Pera,Fruta,160,0.6,2025-11-29,Proveedor YYYY,Baréin,Alta,Si
+Uva,Fruta,130,1.2,2025-12-02,Proveedor ZZZZ,Omán,Media,No
+Kiwi,Fruta,85,1.5,2025-12-03,Proveedor AAAAA,Yemen,Alta,Si
+Mango,Fruta,100,1.8,2025-11-30,Proveedor BBBBB,Irak,Media,No
+Papaya,Fruta,75,1.1,2025-12-04,Proveedor CCCCC,Irán,Alta,Si
+Fresa,Fruta,380,0.8,2025-12-01,Proveedor DDDDD,Siria,Media,No
+Sandía,Fruta,45,3.0,2025-11-28,Proveedor EEEEE,Jordania,Alta,Si
+Melón,Fruta,55,2.5,2025-12-02,Proveedor FFFFF,Líbano,Media,No
+Cereza,Fruta,70,2.0,2025-12-03,Proveedor GGGGG,Emiratos Árabes Unidos,Alta,Si
+Durazno,Fruta,145,1.3,2025-11-29,Proveedor HHHHH,Qatar,Media,No
+Piña,Fruta,60,2.2,2025-12-04,Proveedor IIIII,Kuwait,Alta,Si
+Lima,Fruta,110,0.7,2025-12-01,Proveedor JJJJJ,Baréin,Media,No
+Limón,Fruta,120,0.6,2025-11-30,Proveedor KKKKK,Omán,Alta,Si
+Mandarina,Fruta,165,0.5,2025-12-02,Proveedor LLLLL,Yemen,Media,No
+Higo,Fruta,70,2.8,2025-12-03,Proveedor MMMMM,Irak,Alta,Si
+Granada,Fruta,80,1.9,2025-11-28,Proveedor NNNNN,Irán,Media,No
+Frambuesa,Fruta,95,2.5,2025-12-04,Proveedor OOOOO,Siria,Alta,Si
+Manzana,Fruta,200,0.5,2025-12-01,Proveedor PPPPP,Jordania,Media,No
+Banana,Fruta,250,0.3,2025-11-29,Proveedor QQQQQ,Líbano,Alta,Si
+Naranja,Fruta,230,0.4,2025-12-02,Proveedor RRRRR,Emiratos Árabes Unidos,Media,No
+Pera,Fruta,170,0.6,2025-12-03,Proveedor SSSSS,Qatar,Alta,Si
+Uva,Fruta,140,1.2,2025-11-30,Proveedor TTTTT,Kuwait,Media,No
+Kiwi,Fruta,90,1.5,2025-12-04,Proveedor UUUUU,Baréin,Alta,Si
+Mango,Fruta,105,1.8,2025-12-01,Proveedor VVVVV,Omán,Media,No
+Papaya,Fruta,80,1.1,2025-11-28,Proveedor WWWWW,Yemen,Alta,Si
+Fresa,Fruta,400,0.8,2025-12-02,Proveedor XXXXX,Irak,Media,No
+Sandía,Fruta,50,3.0,2025-12-03,Proveedor YYYYY,Irán,Alta,Si
+Melón,Fruta,60,2.5,2025-11-29,Proveedor ZZZZZ,Siria,Media,No
+Cereza,Fruta,75,2.0,2025-12-04,Proveedor AAAAAA,Jordania,Alta,Si
+Durazno,Fruta,155,1.3,2025-12-01,Proveedor BBBBBB,Líbano,Media,No
+Piña,Fruta,65,2.2,2025-11-30,Proveedor CCCCCC,Emiratos Árabes Unidos,Alta,Si
+Lima,Fruta,115,0.7,2025-12-02,Proveedor DDDDDD,Qatar,Media,No
+Limón,Fruta,125,0.6,2025-12-03,Proveedor EEEEEE,Kuwait,Alta,Si
+Mandarina,Fruta,175,0.5,2025-11-28,Proveedor FFFFFF,Baréin,Media,No
+Higo,Fruta,75,2.8,2025-12-04,Proveedor GGGGGG,Omán,Alta,Si
+Granada,Fruta,85,1.9,2025-12-01,Proveedor HHHHHH,Yemen,Media,No
+Frambuesa,Fruta,100,2.5,2025-11-29,Proveedor IIIIII,Irak,Alta,Si
+Manzana,Fruta,210,0.5,2025-12-02,Proveedor JJJJJJ,Irán,Media,No
+Banana,Fruta,260,0.3,2025-12-03,Proveedor KKKKKK,Siria,Alta,Si
+Naranja,Fruta,240,0.4,2025-11-30,Proveedor LLLLLL,Jordania,Media,No
+Pera,Fruta,180,0.6,2025-12-04,Proveedor MMMMMM,Líbano,Alta,Si
+Uva,Fruta,150,1.2,2025-12-01,Proveedor NNNNNN,Emiratos Árabes Unidos,Media,No
+Kiwi,Fruta,95,1.5,2025-11-28,Proveedor OOOOOO,Qatar,Alta,Si
+Mango,Fruta,110,1.8,2025-12-02,Proveedor PPPPPP,Kuwait,Media,No
+Papaya,Fruta,85,1.1,2025-12-03,Proveedor QQQQQQ,Baréin,Alta,Si
+Fresa,Fruta,420,0.8,2025-11-29,Proveedor RRRRRR,Omán,Media,No
+Sandía,Fruta,55,3.0,2025-12-04,Proveedor SSSSSS,Yemen,Alta,Si
+Melón,Fruta,65,2.5,2025-12-01,Proveedor TTTTTT,Irak,Media,No
+Cereza,Fruta,80,2.0,2025-11-30,Proveedor UUUUUU,Irán,Alta,Si
+Durazno,Fruta,165,1.3,2025-12-02,Proveedor VVVVVV,Siria,Media,No
+Piña,Fruta,70,2.2,2025-12-03,Proveedor WWWWWW,Jordania,Alta,Si
+Lima,Fruta,120,0.7,2025-11-28,Proveedor XXXXXX,Líbano,Media,No
+Limón,Fruta,130,0.6,2025-12-04,Proveedor YYYYYY,Emiratos Árabes Unidos,Alta,Si
+Mandarina,Fruta,185,0.5,2025-12-01,Proveedor ZZZZZZ,Qatar,Media,No
+Higo,Fruta,80,2.8,2025-11-29,Proveedor AAAAAAA,Kuwait,Alta,Si
+Granada,Fruta,90,1.9,2025-12-02,Proveedor BBBBBBB,Baréin,Media,No
+Frambuesa,Fruta,105,2.5,2025-12-03,Proveedor CCCCCCC,Omán,Alta,Si
+Manzana,Fruta,220,0.5,2025-11-30,Proveedor DDDDDDD,Yemen,Media,No
+Banana,Fruta,270,0.3,2025-12-04,Proveedor EEEEEEE,Irak,Alta,Si
+Naranja,Fruta,250,0.4,2025-12-01,Proveedor FFFFFFF,Irán,Media,No
+Pera,Fruta,190,0.6,2025-11-28,Proveedor GGGGGGG,Siria,Alta,Si
+Uva,Fruta,160,1.2,2025-12-02,Proveedor HHHHHHH,Jordania,Media,No
+Kiwi,Fruta,100,1.5,2025-12-03,Proveedor IIIIIII,Líbano,Alta,Si
+Mango,Fruta,115,1.8,2025-11-29,Proveedor JJJJJJJ,Emiratos Árabes Unidos,Media,No
+Papaya,Fruta,90,1.1,2025-12-04,Proveedor KKKKKKK,Qatar,Alta,Si
+Fresa,Fruta,440,0.8,2025-12-01,Proveedor LLLLLLL,Kuwait,Media,No
+Sandía,Fruta,60,3.0,2025-11-30,Proveedor MMMMMMM,Baréin,Alta,Si
+Melón,Fruta,70,2.5,2025-12-02,Proveedor NNNNNNN,Omán,Media,No
+Cereza,Fruta,85,2.0,2025-12-03,Proveedor OOOOOOO,Yemen,Alta,Si
+Durazno,Fruta,175,1.3,2025-11-28,Proveedor PPPPPPP,Irak,Media,No
+Piña,Fruta,75,2.2,2025-12-04,Proveedor QQQQQQQ,Irán,Alta,Si
+Lima,Fruta,125,0.7,2025-12-01,Proveedor RRRRRRR,Siria,Media,No
+Limón,Fruta,135,0.6,2025-11-29,Proveedor SSSSSSS,Jordania,Alta,Si
+Mandarina,Fruta,195,0.5,2025-12-02,Proveedor TTTTTTT,Líbano,Media,No
+Higo,Fruta,85,2.8,2025-12-03,Proveedor UUUUUUU,Emiratos Árabes Unidos,Alta,Si
+Granada,Fruta,95,1.9,2025-11-30,Proveedor VVVVVVV,Qatar,Media,No
+Frambuesa,Fruta,110,2.5,2025-12-04,Proveedor WWWWWWW,Kuwait,Alta,Si
